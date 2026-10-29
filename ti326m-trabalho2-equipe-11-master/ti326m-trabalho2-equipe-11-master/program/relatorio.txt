@@ -1,0 +1,255 @@
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	26.44	0	9809.11
+pdtsp-n105	26.03	0	10187.07
+pdtsp-n105	25.92	0	9780.62
+pdtsp-n105	25.79	0	9671.65
+pdtsp-n105	27.29	0	9895.59
+pdtsp-n105	26.02	0	11326.08
+pdtsp-n105	26.66	0	9150.91
+pdtsp-n105	30.72	0	9766.78
+pdtsp-n105	29.69	0	9997.95
+pdtsp-n105	26.31	0	10008.79
+Relatório para BRKGA_pdtsp-n599
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n599	54.86	0	144973.97
+pdtsp-n599	54.20	0	148739.35
+pdtsp-n599	54.49	0	146200.14
+pdtsp-n599	55.18	0	151062.23
+pdtsp-n599	54.64	0	145530.87
+Relatório para BRKGA_pdtsp-n599
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n599	54.40	0	149789.29
+pdtsp-n599	54.78	0	149938.57
+pdtsp-n599	54.94	0	145404.74
+pdtsp-n599	55.31	0	150631.88
+pdtsp-n599	62.12	0	150142.97
+Relatório para ILS_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	103.78	1257356	9132.84
+pdtsp-n105	0.00	1257356	38490.13
+pdtsp-n105	0.00	1257356	37627.43
+pdtsp-n105	0.00	1257356	37365.62
+pdtsp-n105	0.00	1257356	37234.63
+pdtsp-n105	0.00	1257356	34963.52
+pdtsp-n105	0.00	1257356	38624.54
+pdtsp-n105	0.00	1257356	36610.05
+pdtsp-n105	0.00	1257356	35979.4
+pdtsp-n105	0.00	1257356	36491.35
+Relatório para BRKGA_pdtsp-n547
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n547	45.62	0	133808.56
+pdtsp-n547	47.75	0	129892.74
+pdtsp-n547	49.23	0	133070.4
+pdtsp-n547	50.64	0	127073.69
+pdtsp-n547	51.67	0	127989.93
+Relatório para BRKGA_pdtsp-n459
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n459	32.24	0	67563.82
+pdtsp-n459	32.42	0	67479.1
+pdtsp-n459	32.70	0	69560.94
+pdtsp-n459	32.81	0	72422.51
+pdtsp-n459	33.07	0	71847.15
+Relatório para BRKGA_pdtsp-n401
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n401	25.94	0	80245.6
+pdtsp-n401	26.19	0	78526.94
+pdtsp-n401	26.20	0	82120.96
+pdtsp-n401	26.26	0	81093.09
+pdtsp-n401	26.33	0	75515.59
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	3.26	0	12937.33
+pdtsp-n105	3.28	0	14789.43
+pdtsp-n105	3.30	0	13075.26
+pdtsp-n105	3.54	0	13718.94
+pdtsp-n105	3.68	0	13720.12
+Relatório para BRKGA_pdtsp-n599
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n599	79.35	0	151054.96
+pdtsp-n599	82.91	0	152428.12
+pdtsp-n599	83.68	0	152580.7
+pdtsp-n599	87.18	0	152163.97
+pdtsp-n599	87.72	0	151895.63
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	3.38	0	14326.81
+pdtsp-n105	3.46	0	13944.79
+pdtsp-n105	3.54	0	12739.89
+pdtsp-n105	3.64	0	13792.13
+pdtsp-n105	4.69	0	12339.63
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	15.69	0	10513.81
+pdtsp-n105	16.52	0	10802.52
+pdtsp-n105	16.57	0	11283.8
+pdtsp-n105	16.64	0	11016.59
+pdtsp-n105	17.57	0	10254.82
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	32.17	0	9698.79
+pdtsp-n105	33.23	0	9270.72
+pdtsp-n105	33.75	0	9834.69
+pdtsp-n105	33.97	0	9349.28
+pdtsp-n105	36.88	0	9321.78
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	31.67	0	9624.72
+pdtsp-n105	32.25	0	9806.75
+pdtsp-n105	35.30	0	9560.31
+pdtsp-n105	35.79	0	11250.39
+pdtsp-n105	39.52	0	9612.01
+Relatório para Comparação_BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	2.99	0	15316.52
+pdtsp-n105	3.04	0	14157.37
+pdtsp-n105	3.19	0	15248.87
+pdtsp-n105	3.31	0	13935.07
+pdtsp-n105	3.39	0	14400.07
+Relatório para Comparação_ILS_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	2.54	50503	23810.34
+pdtsp-n105	3.97	55517	23312.91
+pdtsp-n105	4.46	87847	24775.39
+pdtsp-n105	4.58	74066	26474.47
+pdtsp-n105	6.31	78529	23830.8
+Relatório para Comparação_BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	2.80	0	14569.29
+pdtsp-n105	3.03	0	13833.34
+pdtsp-n105	3.09	0	15005.36
+pdtsp-n105	2.81	0	13345.13
+pdtsp-n105	2.94	0	13189.45
+Relatório para Comparação_ILS_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	1.81	31882	25756.96
+pdtsp-n105	7.04	108586	20810.12
+pdtsp-n105	2.64	45596	28018.31
+pdtsp-n105	2.06	43679	23416.57
+pdtsp-n105	3.26	75752	25698.82
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	0.03	0	25922.09
+pdtsp-n105	0.03	0	24751.69
+pdtsp-n105	0.03	0	25128.01
+pdtsp-n105	0.03	0	25564.95
+pdtsp-n105	0.03	0	25123.76
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	39.49	0	8803.98
+pdtsp-n105	56.78	0	9301.85
+pdtsp-n105	41.15	0	8973.32
+pdtsp-n105	43.82	0	8218.03
+pdtsp-n105	46.39	0	9072.47
+Relatório para ILS_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	103.61	3037760	7937.14
+pdtsp-n105	71.21	2034641	8052.84
+pdtsp-n105	99.02	2692306	8291.32
+pdtsp-n105	73.25	2261674	8856.01
+pdtsp-n105	85.35	2901915	8875.789999999999
+Relatório para ILS_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	77.19	1795152	33036.92
+pdtsp-n171	176.40	3233710	32568.62
+pdtsp-n171	160.74	3436847	32535.41
+pdtsp-n171	141.04	3324234	32062.260000000002
+pdtsp-n171	104.09	2784884	33916.81
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	0.04	0	24681.22
+pdtsp-n105	0.04	0	25925.54
+pdtsp-n105	0.04	0	23885.65
+pdtsp-n105	0.04	0	25243.79
+pdtsp-n105	0.05	0	25291.93
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	104.29	0	8574.26
+pdtsp-n105	91.18	0	8994.8
+pdtsp-n105	88.52	0	9563.77
+pdtsp-n105	90.89	0	8888.1
+pdtsp-n105	86.12	0	9772.06
+Relatório para BRKGA_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	33.24	0	9025.27
+pdtsp-n105	33.61	0	8693.94
+pdtsp-n105	33.86	0	8469.57
+pdtsp-n105	32.94	0	8116.55
+pdtsp-n105	33.27	0	9121.27
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	68.51	0	18707.32
+pdtsp-n171	71.48	0	18693.96
+pdtsp-n171	66.14	0	18929.62
+pdtsp-n171	53.99	0	19216.44
+pdtsp-n171	53.77	0	17897.65
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	66.44	0	20555.29
+pdtsp-n171	74.05	0	20456.239999999998
+pdtsp-n171	64.21	0	21351.43
+pdtsp-n171	67.89	0	19914.28
+pdtsp-n171	91.00	0	20563.67
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	75.53	0	19146.3
+pdtsp-n171	124.62	0	18348.32
+pdtsp-n171	155.23	0	20334.48
+pdtsp-n171	124.86	0	17959.63
+pdtsp-n171	109.23	0	17967.21
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	0.37	0	58306.15
+pdtsp-n171	0.32	0	59268.25
+pdtsp-n171	0.35	0	59816.03
+pdtsp-n171	0.33	0	60620.659999999996
+pdtsp-n171	0.36	0	60638.86
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	0.30	0	59452.92
+pdtsp-n171	0.34	0	60071.64
+pdtsp-n171	0.36	0	60594.97
+pdtsp-n171	0.29	0	60949.9
+pdtsp-n171	0.31	0	61011.15
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	0.32	0	58379.51
+pdtsp-n171	0.32	0	58486.81
+pdtsp-n171	0.31	0	59773.14
+pdtsp-n171	0.34	0	60404.11
+pdtsp-n171	0.31	0	60623.58
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	0.35	0	58931.62
+pdtsp-n171	0.31	0	59701.85
+pdtsp-n171	0.31	0	60722.66
+pdtsp-n171	0.36	0	61403.44
+pdtsp-n171	0.31	0	61431.73
+Relatório para BRKGA_pdtsp-n171
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n171	102.95	0	18112.45
+pdtsp-n171	78.60	0	19164.33
+pdtsp-n171	76.51	0	19295.44
+pdtsp-n171	76.32	0	19306.5
+pdtsp-n171	81.59	0	20508.95
+Relatório para BRKGA_pdtsp-n213
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n213	97.06	0	13132.73
+pdtsp-n213	107.20	0	13626.17
+pdtsp-n213	89.20	0	13641.57
+pdtsp-n213	130.08	0	13753.46
+pdtsp-n213	95.80	0	13893.85
+Relatório para BRKGA_pdtsp-n289
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n289	140.58	0	33404.44
+pdtsp-n289	131.28	0	34374.23
+pdtsp-n289	120.03	0	34770.24
+pdtsp-n289	158.92	0	34833.31
+pdtsp-n289	104.61	0	34864.86
+Relatório para ILS_pdtsp-n105
+Instância	Tempo Médio	Iterações Médias	Melhor Solução
+pdtsp-n105	65.72	2609605	8507.7
+pdtsp-n105	36.35	1507099	8583.31
+pdtsp-n105	29.17	1212615	8709.17
+pdtsp-n105	47.08	1894528	8715.83
+pdtsp-n105	102.00	4086359	8719.58
